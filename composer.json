@@ -1,0 +1,29 @@
+{
+  "name": "salamwaddah/ok",
+  "description": "ok",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "ok"
+  ],
+  "authors": [
+    {
+      "name": "Salam Waddah",
+      "homepage": "https://salamwaddah.com/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SalamWaddah\\Ok\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}
