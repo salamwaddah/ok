@@ -10,11 +10,11 @@ composer require salamwaddah/ok
 
 ```php
 // directly using constant
-$ok = Ok::OK;
+$ok = Ok::OK; // returns 'ok'
 
 // using method
 $ok = new Ok();
-$ok = $ok->ok();
+$ok = $ok->ok(); // returns 'ok'
 ```
 
 ## Tests
