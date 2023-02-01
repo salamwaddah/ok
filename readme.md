@@ -1,5 +1,9 @@
 # PHP Ok
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/salamwaddah/ok.svg?style=flat-square)](https://packagist.org/packages/salamwaddah/ok)
+[![Total Downloads](https://img.shields.io/packagist/dt/salamwaddah/ok.svg?style=flat-square)](https://packagist.org/packages/salamwaddah/ok)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+
 ## Installation
 
 ```bash
